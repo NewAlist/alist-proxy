@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/alist-org/alist/v3/pkg/sign"
+	"github.com/NewAlist/alist/v3/pkg/sign"
 )
 
 type Link struct {
